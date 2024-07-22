@@ -1,2 +1,2 @@
-# Flourine.exe
-new malware!!
+# Flourine
+C++ short GDI trojan by yedb0y33k
